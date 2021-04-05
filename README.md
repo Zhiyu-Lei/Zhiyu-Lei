@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello world 👋
 
+I am Zhiyu (Oliver) Lei at University of Rochester Class of 2022, double majoring in Data Science and Applied Mathematics. I am very interested in fields related to science, technology, transportation and so on. I am particularly passionate for Machine Learning and Artificial Intelligence, and I have achieved a lot through those challenging courses at school. I gained valuable experience in programming at production level, mining patterns and insights from data, and building analysis tools and pipelines through my course works as well as internships. I also developed competences of rigorous logical thinking and efficient team-working. In both my academic and professional life, I am meticulous and not afraid of difficulties, and I always pursue perfection. I am also goot at analyzing and solving problems from various perspectives. I look forward to contributing to the era of Big Data and Artificial Intelligence as a tech expert.
+
+I am going to strengthen Deep Learning skills in the coming summer, and I am currently looking for some interesting projects to work on. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/zhiyu-lei/).
 <!--
 **Zhiyu-Lei/Zhiyu-Lei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
